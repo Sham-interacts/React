@@ -1,3 +1,4 @@
-#heading{
-    color:red;
-}
+@import "tailwindcss";
+
+/* your own custom styles can go below if needed */
+/* body { font-family: system-ui, sans-serif; } */
